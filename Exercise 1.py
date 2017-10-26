@@ -7,7 +7,7 @@ The fruit supplier offers:
 But the fruit shop does not want to purchase: 'cherry', 'pear' and 'Mango'
 
 Hints:
-list.del and list.remove could only remove one item, we here 
+list.pop and list.remove could only remove one item, we here 
 consider for(...in...if...) method to filter unconcerned items 
 
 '''
