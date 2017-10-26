@@ -15,6 +15,6 @@ consider (for...in...if...) method to filter unconcerned items
 #------------Solution 1-----------------#
 
 Fruit = ['apple','banana','pear','pineapple','cherry','watermelon','strawberry','grape','Mango']
-Fruit_unlike = ['cherry', 'pear', 'Mango']
+Fruit_exclude = ['cherry', 'pear', 'Mango']
 Fruit_purchase = [i for i in Fruit if i not in Fruit_unlike]
 print (Fruit_purchase)
