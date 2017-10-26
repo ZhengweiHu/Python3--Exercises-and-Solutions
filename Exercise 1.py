@@ -8,7 +8,7 @@ But the fruit shop does not want to purchase: 'cherry', 'pear' and 'Mango'
 
 Hints:
 list.pop and list.remove could only remove one item, we here 
-consider for(...in...if...) method to filter unconcerned items 
+consider (for...in...if...) method to filter unconcerned items 
 
 '''
 
